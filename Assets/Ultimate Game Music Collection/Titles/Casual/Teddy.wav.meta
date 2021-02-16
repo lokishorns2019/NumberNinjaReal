@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-guid: 9f2365f4a3a8244bc958bed9b1a11083
-labels:
-- Audio
-- Casual
-- Title
+guid: 7dd090799cb6f4b04b6dd635dcfd45c7
 AudioImporter:
   externalObjects: {}
   serializedVersion: 6

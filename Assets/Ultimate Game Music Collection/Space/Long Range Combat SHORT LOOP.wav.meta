@@ -1,10 +1,5 @@
 fileFormatVersion: 2
-guid: 2c50ea089c7d640f79e4fbd57fa01b3b
-labels:
-- Audio
-- Loop
-- SciFi
-- Science
+guid: d2e1895cac2d64813a6bf0b92fcf536a
 AudioImporter:
   externalObjects: {}
   serializedVersion: 6

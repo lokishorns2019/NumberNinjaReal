@@ -1,10 +1,5 @@
 fileFormatVersion: 2
-guid: b556714bc36ea4124a6206d47703fbc1
-labels:
-- Audio
-- Casual
-- Loop
-- Title
+guid: 85a97f6661932492fbfccd088d953069
 AudioImporter:
   externalObjects: {}
   serializedVersion: 6

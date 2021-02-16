@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-guid: 46626f296eb3444fa834d8f97072ea9e
-labels:
-- Audio
-- Loop
-- One
+guid: 07506056b0a044c61b26b791a65830ca
 AudioImporter:
   externalObjects: {}
   serializedVersion: 6

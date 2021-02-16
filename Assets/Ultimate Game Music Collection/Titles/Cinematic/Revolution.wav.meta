@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-guid: 0b0df76deb1c646409bb1eca8866185e
-labels:
-- Audio
-- Title
-- Trailer
+guid: 838f52ccd8a274520bf01e55217216ff
 AudioImporter:
   externalObjects: {}
   serializedVersion: 6
