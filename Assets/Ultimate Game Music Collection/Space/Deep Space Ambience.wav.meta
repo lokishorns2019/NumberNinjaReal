@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-guid: 93ff2f4c7cf9f404f89bc29dff438587
-labels:
-- Audio
-- SciFi
-- Science
+guid: c1d3cfdeb6a5e4b46a115e0f7f741431
 AudioImporter:
   externalObjects: {}
   serializedVersion: 6

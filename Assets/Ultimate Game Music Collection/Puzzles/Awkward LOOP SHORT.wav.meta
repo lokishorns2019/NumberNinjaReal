@@ -1,12 +1,5 @@
 fileFormatVersion: 2
-guid: cf590ac177da1474fa850802a23a6102
-labels:
-- Audio
-- Cartoon
-- Casual
-- Loop
-- Mobile
-- Puzzle
+guid: d4f0e8a57de964474a0151f956c4e046
 AudioImporter:
   externalObjects: {}
   serializedVersion: 6

@@ -1,8 +1,5 @@
 fileFormatVersion: 2
-guid: 1eb5a8a05a7ee407da19a7ae713e5c96
-labels:
-- Ambience
-- Audio
+guid: 90b98b562f48144b9af5a2c4de5ec795
 AudioImporter:
   externalObjects: {}
   serializedVersion: 6

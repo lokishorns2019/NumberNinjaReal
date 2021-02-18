@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-guid: a84b9c16e878748569ae06f8bb49419b
-labels:
-- Ambience
-- Audio
-- Fantasy
+guid: 32ba265a88bc947f9a87e0bc42b4d4d3
 AudioImporter:
   externalObjects: {}
   serializedVersion: 6

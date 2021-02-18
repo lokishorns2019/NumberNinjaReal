@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-guid: 98b37014e75414b2bab3404a08937561
-labels:
-- Audio
-- Combat
-- Loop
+guid: 5ae2b2ce3419643cd8570b8bf71a1754
 AudioImporter:
   externalObjects: {}
   serializedVersion: 6
