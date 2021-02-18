@@ -1,8 +1,5 @@
 fileFormatVersion: 2
-guid: 0ff4db931f9d440e6b91122ce0a2dc8d
-labels:
-- Audio
-- Seasonal
+guid: 631336e48eca546bc950b7d07777f504
 AudioImporter:
   externalObjects: {}
   serializedVersion: 6

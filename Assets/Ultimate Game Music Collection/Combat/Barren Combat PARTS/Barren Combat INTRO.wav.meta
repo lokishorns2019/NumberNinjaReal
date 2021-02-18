@@ -1,8 +1,5 @@
 fileFormatVersion: 2
-guid: 381395229c3c74943bafaae28a14482f
-labels:
-- Audio
-- Combat
+guid: fb09e6f7b15904500aa711e8e5914475
 AudioImporter:
   externalObjects: {}
   serializedVersion: 6

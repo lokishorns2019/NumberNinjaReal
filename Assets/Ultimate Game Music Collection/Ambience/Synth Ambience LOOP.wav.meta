@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-guid: d8590731fea8e4324ab21ecb0f7a96d2
-labels:
-- Ambience
-- Audio
-- Loop
+guid: 690538f67e08e4130a40534f7c5ef276
 AudioImporter:
   externalObjects: {}
   serializedVersion: 6

@@ -1,8 +1,5 @@
 fileFormatVersion: 2
-guid: 0740934ff2e924a44a57399b6fa66a91
-labels:
-- Audio
-- Dark
+guid: 96a475c79c09747d5b8af40f991942aa
 AudioImporter:
   externalObjects: {}
   serializedVersion: 6
