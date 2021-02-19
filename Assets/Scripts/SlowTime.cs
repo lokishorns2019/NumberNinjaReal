@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class SlowTime : MonoBehaviour
 {
+    public float time = 0f;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -11,7 +12,7 @@ public class SlowTime : MonoBehaviour
         //if (other.name == "Player")
         //{
             // This will search all player scripts for a function called "Hit Banana"
-            Time.timeScale = .10f;
+            Time.timeScale = time; 
         //}
     }
 }
