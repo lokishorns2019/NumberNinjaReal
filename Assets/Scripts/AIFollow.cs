@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class AIFollow : MonoBehaviour
 {
-    
     public float speed = 3f;
     private Transform target;
 
