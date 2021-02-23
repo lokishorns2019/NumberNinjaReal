@@ -18,6 +18,7 @@ public class QuestionMaster : MonoBehaviour {
     //game object variables
     public string input = " ";
     public GameObject inputField;
+    public InputField yourInputField;
     public Text textDisplay;
     public GameObject gameOver;
     public GameObject questionScreen;
@@ -63,6 +64,11 @@ public class QuestionMaster : MonoBehaviour {
             GenerateQuestions();
             questionScreen.SetActive(true);
             trigger = true;
+            yourInputField.ActivateInputField();
+        }
+        if (Input.GetKeyDown("enter") || Input.GetKey("return"))
+        {
+            inputNum();
         }
     }
         
