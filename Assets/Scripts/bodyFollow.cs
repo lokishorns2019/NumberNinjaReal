@@ -29,9 +29,11 @@ public class bodyFollow : MonoBehaviour
         float dist = Vector2.Distance(target.transform.position, transform.position);
         if (dist > distance + 1)
         {
-            transform.position = Vector2.MoveTowards(transform.position, target.transform.position, speed * Time.deltaTime);
+
+                transform.position = Vector2.MoveTowards(transform.position, target.transform.position, speed * Time.deltaTime);
+            
         }
 
-
+      
     }
 }
