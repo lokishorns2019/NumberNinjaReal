@@ -8,10 +8,13 @@ public class AIDamage : MonoBehaviour
     public GameObject ch;
     public Collider2D thing;
 
+
     void Start()
     {
         anim = GetComponent<Animator>();
     }
+
+
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -21,7 +24,7 @@ public class AIDamage : MonoBehaviour
             {
                 anim.Play("death");
             }
-            Time.timeScale = .05f;
+            Time.timeScale = 0.05f;
             ch.SetActive(true);
         }
     }

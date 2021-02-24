@@ -69,7 +69,8 @@ public class QuestionMaster : MonoBehaviour {
             questionScreen.SetActive(true);
             trigger = true;
             yourInputField.ActivateInputField();
-            
+            yourInputField.text = "";
+
         }
         if (Input.GetKeyDown("enter") || Input.GetKey("return"))
         {
