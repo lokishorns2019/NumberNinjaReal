@@ -6,8 +6,13 @@ public class SlowTime : MonoBehaviour
 {
     public float time = 0f;
 
+
     private void OnTriggerEnter2D(Collider2D other)
     {
-        Time.timeScale = time;
+        
+        if (other.gameObject.tag == "Player")
+        {
+            Time.timeScale = time;
+        }
     }
 }

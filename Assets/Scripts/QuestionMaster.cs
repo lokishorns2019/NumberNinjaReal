@@ -22,7 +22,8 @@ public class QuestionMaster : MonoBehaviour {
     public Text textDisplay;
     public GameObject gameOver;
     public GameObject questionScreen;
-    public GameObject colliderthing;
+    public GameObject win;
+    public GameObject pause;
     private bool trigger = false;
 
     public void inputNum()
@@ -36,7 +37,6 @@ public class QuestionMaster : MonoBehaviour {
             questionScreen.SetActive(false);
             //tally correct answer
             totalCorrect++;
-            colliderthing.SetActive(false);
             trigger = false;
         }
         else
@@ -59,7 +59,7 @@ public class QuestionMaster : MonoBehaviour {
 
     public void Update()
     {
-        if (Time.timeScale < 1f && trigger == false && gameOver.active == false)
+        if (Time.timeScale < 1f && trigger == false && gameOver.active == false && win.active == false && pause.active == false)
         {
             GenerateQuestions();
             questionScreen.SetActive(true);
