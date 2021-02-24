@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 3
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 894f461093d23e843a8ea35d968ad851, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -1140,7 +1140,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &73222592
 Transform:
   m_ObjectHideFlags: 0
@@ -5707,8 +5707,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b87291fb2458abf46a875621fa23e1bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 6
-  turnSpeed: 6
+  speed: 8
+  turnSpeed: 8
   distance: 0.01
   target: {fileID: 1505335083}
 --- !u!61 &319909377
@@ -9791,8 +9791,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b87291fb2458abf46a875621fa23e1bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 6
-  turnSpeed: 6
+  speed: 8
+  turnSpeed: 8
   distance: 0.01
   target: {fileID: 474392762}
 --- !u!61 &591226830
@@ -20907,8 +20907,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b87291fb2458abf46a875621fa23e1bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 6
-  turnSpeed: 6
+  speed: 8
+  turnSpeed: 8
   distance: 0.01
   target: {fileID: 592402082}
 --- !u!61 &1176660070
@@ -21856,7 +21856,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f248fbc1273be24b90e0590b4611273, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
+  speed: 6
   turnSpeed: 5
 --- !u!61 &1245411133
 BoxCollider2D:
@@ -22669,8 +22669,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -303, y: -121}
-  m_SizeDelta: {x: 335.7561, y: 74.636536}
+  m_AnchoredPosition: {x: -169.3, y: -115.8}
+  m_SizeDelta: {x: 603.2527, y: 64.24832}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1293244300
 MonoBehaviour:
@@ -22700,7 +22700,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_Color: {r: 0.20647041, g: 0.9716981, b: 0, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -23350,8 +23350,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b87291fb2458abf46a875621fa23e1bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 6
-  turnSpeed: 6
+  speed: 8
+  turnSpeed: 8
   distance: 0.01
   target: {fileID: 316158895}
 --- !u!61 &1342134347
@@ -30042,7 +30042,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b87291fb2458abf46a875621fa23e1bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 6
+  speed: 7
   turnSpeed: 6
   distance: 0.01
   target: {fileID: 1949328816}
@@ -30422,8 +30422,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b87291fb2458abf46a875621fa23e1bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 6
-  turnSpeed: 6
+  speed: 8
+  turnSpeed: 8
   distance: 0.01
   target: {fileID: 753509282}
 --- !u!61 &1750370914
@@ -33070,8 +33070,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b87291fb2458abf46a875621fa23e1bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 6
-  turnSpeed: 6
+  speed: 8
+  turnSpeed: 8
   distance: 0.01
   target: {fileID: 1195285714}
 --- !u!61 &1912167593

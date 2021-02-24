@@ -13,13 +13,15 @@ public class QuestionMaster : MonoBehaviour {
     public int sum = 0;
     public int totalCorrect = 0;
     public int totalQuestions = 0;
-    
+
+
 
     //game object variables
     public string input = " ";
     public GameObject inputField;
     public InputField yourInputField;
     public Text textDisplay;
+
     public GameObject gameOver;
     public GameObject questionScreen;
     public GameObject win;
@@ -55,21 +57,25 @@ public class QuestionMaster : MonoBehaviour {
     public void displayQuestion() 
     {
         textDisplay.text = numberA.ToString() + " + " + numberB.ToString();
+        
     }
 
     public void Update()
     {
         if (Time.timeScale < 1f && trigger == false && gameOver.active == false && win.active == false && pause.active == false)
         {
+
             GenerateQuestions();
             questionScreen.SetActive(true);
             trigger = true;
             yourInputField.ActivateInputField();
+            
         }
         if (Input.GetKeyDown("enter") || Input.GetKey("return"))
         {
             inputNum();
         }
+
     }
         
     void GenerateQuestions() {
