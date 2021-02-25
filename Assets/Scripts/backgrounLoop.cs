@@ -10,6 +10,8 @@ public class backgrounLoop : MonoBehaviour
     public float choke;
     public float scrollSpeed;
 
+    private Vector3 lastScreenPosition;
+
     void Start()
     {
         mainCamera = gameObject.GetComponent<Camera>();
@@ -18,6 +20,7 @@ public class backgrounLoop : MonoBehaviour
         {
             loadChildObjects(obj);
         }
+        lastScreenPosition = transform.position;
     }
     void loadChildObjects(GameObject obj)
     {
@@ -56,18 +59,20 @@ public class backgrounLoop : MonoBehaviour
     }
     void Update()
     {
-
         Vector3 velocity = Vector3.zero;
         Vector3 desiredPosition = transform.position + new Vector3(scrollSpeed, 0, 0);
         Vector3 smoothPosition = Vector3.SmoothDamp(transform.position, desiredPosition, ref velocity, 0.3f);
         transform.position = smoothPosition;
-
     }
     void LateUpdate()
     {
         foreach (GameObject obj in levels)
         {
             repositionChildObjects(obj);
+            float parallaxSpeed = 1 - Mathf.Clamp01(Mathf.Abs(transform.position.z / obj.transform.position.z));
+            float difference = transform.position.x - lastScreenPosition.x;
+            obj.transform.Translate(Vector3.right * difference * parallaxSpeed);
         }
+        lastScreenPosition = transform.position;
     }
 }
