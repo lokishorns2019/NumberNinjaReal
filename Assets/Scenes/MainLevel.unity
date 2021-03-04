@@ -131,7 +131,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3181132}
   - component: {fileID: 3181133}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -212,7 +212,7 @@ GameObject:
   m_Component:
   - component: {fileID: 13718503}
   - component: {fileID: 13718504}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -293,7 +293,7 @@ GameObject:
   m_Component:
   - component: {fileID: 21351051}
   - component: {fileID: 21351052}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -374,7 +374,7 @@ GameObject:
   m_Component:
   - component: {fileID: 22643954}
   - component: {fileID: 22643955}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -561,7 +561,7 @@ GameObject:
   m_Component:
   - component: {fileID: 24668510}
   - component: {fileID: 24668511}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -642,7 +642,7 @@ GameObject:
   m_Component:
   - component: {fileID: 32914500}
   - component: {fileID: 32914501}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -713,36 +713,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &35828274
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 35828275}
-  m_Layer: 0
-  m_Name: GameObject
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &35828275
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 35828274}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 9.8, y: -1.4, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 319909375}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &36758397
 GameObject:
   m_ObjectHideFlags: 0
@@ -753,7 +723,7 @@ GameObject:
   m_Component:
   - component: {fileID: 36758398}
   - component: {fileID: 36758399}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -912,7 +882,7 @@ GameObject:
   m_Component:
   - component: {fileID: 51935184}
   - component: {fileID: 51935185}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -969,7 +939,7 @@ GameObject:
   m_Component:
   - component: {fileID: 64597110}
   - component: {fileID: 64597111}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1064,7 +1034,7 @@ GameObject:
   m_Component:
   - component: {fileID: 69341242}
   - component: {fileID: 69341243}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1172,7 +1142,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 86382759}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform4x01Stone (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1210,7 +1180,7 @@ GameObject:
   m_Component:
   - component: {fileID: 87566643}
   - component: {fileID: 87566644}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1291,7 +1261,7 @@ GameObject:
   m_Component:
   - component: {fileID: 94578069}
   - component: {fileID: 94578070}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1372,7 +1342,7 @@ GameObject:
   m_Component:
   - component: {fileID: 101029889}
   - component: {fileID: 101029890}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1452,7 +1422,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 103472420}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform8x01Stone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1493,7 +1463,7 @@ GameObject:
   m_Component:
   - component: {fileID: 106417634}
   - component: {fileID: 106417635}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1574,7 +1544,7 @@ GameObject:
   m_Component:
   - component: {fileID: 106567911}
   - component: {fileID: 106567912}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1655,7 +1625,7 @@ GameObject:
   m_Component:
   - component: {fileID: 111342773}
   - component: {fileID: 111342774}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1712,7 +1682,7 @@ GameObject:
   m_Component:
   - component: {fileID: 121135345}
   - component: {fileID: 121135346}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1793,7 +1763,7 @@ GameObject:
   m_Component:
   - component: {fileID: 124558372}
   - component: {fileID: 124558373}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1874,7 +1844,7 @@ GameObject:
   m_Component:
   - component: {fileID: 128810820}
   - component: {fileID: 128810821}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1955,7 +1925,7 @@ GameObject:
   m_Component:
   - component: {fileID: 130066319}
   - component: {fileID: 130066320}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2036,7 +2006,7 @@ GameObject:
   m_Component:
   - component: {fileID: 132101017}
   - component: {fileID: 132101018}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2093,7 +2063,7 @@ GameObject:
   m_Component:
   - component: {fileID: 133375887}
   - component: {fileID: 133375888}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2174,7 +2144,7 @@ GameObject:
   m_Component:
   - component: {fileID: 134964633}
   - component: {fileID: 134964634}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2255,7 +2225,7 @@ GameObject:
   m_Component:
   - component: {fileID: 136129915}
   - component: {fileID: 136129916}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2312,7 +2282,7 @@ GameObject:
   m_Component:
   - component: {fileID: 140307291}
   - component: {fileID: 140307292}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2393,7 +2363,7 @@ GameObject:
   m_Component:
   - component: {fileID: 146312049}
   - component: {fileID: 146312050}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2502,7 +2472,7 @@ GameObject:
   m_Component:
   - component: {fileID: 157791485}
   - component: {fileID: 157791486}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2583,7 +2553,7 @@ GameObject:
   m_Component:
   - component: {fileID: 165418747}
   - component: {fileID: 165418748}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2663,7 +2633,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 169028954}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform8x01Stone (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2758,6 +2728,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1169350582}
+  - {fileID: 1261524096}
   m_Father: {fileID: 0}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2771,7 +2742,7 @@ GameObject:
   m_Component:
   - component: {fileID: 183072235}
   - component: {fileID: 183072236}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2852,7 +2823,7 @@ GameObject:
   m_Component:
   - component: {fileID: 185991337}
   - component: {fileID: 185991338}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2909,7 +2880,7 @@ GameObject:
   m_Component:
   - component: {fileID: 191484083}
   - component: {fileID: 191484084}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2990,7 +2961,7 @@ GameObject:
   m_Component:
   - component: {fileID: 208848828}
   - component: {fileID: 208848829}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3073,7 +3044,7 @@ GameObject:
   - component: {fileID: 209724363}
   - component: {fileID: 209724362}
   - component: {fileID: 209724361}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SlowTimeCollider (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3194,7 +3165,7 @@ GameObject:
   m_Component:
   - component: {fileID: 213355611}
   - component: {fileID: 213355612}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3274,7 +3245,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 213666168}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform4x01Stone (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3312,7 +3283,7 @@ GameObject:
   m_Component:
   - component: {fileID: 214848881}
   - component: {fileID: 214848882}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3393,7 +3364,7 @@ GameObject:
   m_Component:
   - component: {fileID: 215866126}
   - component: {fileID: 215866127}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3450,7 +3421,7 @@ GameObject:
   m_Component:
   - component: {fileID: 217275327}
   - component: {fileID: 217275328}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3507,7 +3478,7 @@ GameObject:
   m_Component:
   - component: {fileID: 218024934}
   - component: {fileID: 218024935}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3564,7 +3535,7 @@ GameObject:
   m_Component:
   - component: {fileID: 220254250}
   - component: {fileID: 220254251}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3645,7 +3616,7 @@ GameObject:
   m_Component:
   - component: {fileID: 220484628}
   - component: {fileID: 220484629}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3726,7 +3697,7 @@ GameObject:
   m_Component:
   - component: {fileID: 223607536}
   - component: {fileID: 223607537}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3807,7 +3778,7 @@ GameObject:
   m_Component:
   - component: {fileID: 227452971}
   - component: {fileID: 227452972}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3888,7 +3859,7 @@ GameObject:
   m_Component:
   - component: {fileID: 228392405}
   - component: {fileID: 228392406}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4041,7 +4012,7 @@ GameObject:
   m_Component:
   - component: {fileID: 230235241}
   - component: {fileID: 230235242}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4121,7 +4092,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 232614571}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform8x01Stone (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4162,7 +4133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 233877136}
   - component: {fileID: 233877137}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4242,7 +4213,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 234400173}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform16x01Stone (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4287,7 +4258,7 @@ GameObject:
   m_Component:
   - component: {fileID: 235523959}
   - component: {fileID: 235523960}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4368,7 +4339,7 @@ GameObject:
   m_Component:
   - component: {fileID: 240714484}
   - component: {fileID: 240714485}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4449,7 +4420,7 @@ GameObject:
   m_Component:
   - component: {fileID: 256241142}
   - component: {fileID: 256241143}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4530,7 +4501,7 @@ GameObject:
   m_Component:
   - component: {fileID: 256720930}
   - component: {fileID: 256720931}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4611,7 +4582,7 @@ GameObject:
   m_Component:
   - component: {fileID: 259710176}
   - component: {fileID: 259710177}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4692,7 +4663,7 @@ GameObject:
   m_Component:
   - component: {fileID: 267369039}
   - component: {fileID: 267369040}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4773,7 +4744,7 @@ GameObject:
   m_Component:
   - component: {fileID: 273357679}
   - component: {fileID: 273357680}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4854,7 +4825,7 @@ GameObject:
   m_Component:
   - component: {fileID: 273501643}
   - component: {fileID: 273501644}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4935,7 +4906,7 @@ GameObject:
   m_Component:
   - component: {fileID: 278123215}
   - component: {fileID: 278123216}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5016,7 +4987,7 @@ GameObject:
   m_Component:
   - component: {fileID: 283635457}
   - component: {fileID: 283635458}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5097,7 +5068,7 @@ GameObject:
   m_Component:
   - component: {fileID: 286615946}
   - component: {fileID: 286615947}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5178,7 +5149,7 @@ GameObject:
   m_Component:
   - component: {fileID: 300744763}
   - component: {fileID: 300744764}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5235,7 +5206,7 @@ GameObject:
   m_Component:
   - component: {fileID: 300881958}
   - component: {fileID: 300881959}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5316,7 +5287,7 @@ GameObject:
   m_Component:
   - component: {fileID: 303360106}
   - component: {fileID: 303360107}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5373,7 +5344,7 @@ GameObject:
   m_Component:
   - component: {fileID: 308341661}
   - component: {fileID: 308341662}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5511,7 +5482,7 @@ GameObject:
   m_Component:
   - component: {fileID: 310532920}
   - component: {fileID: 310532921}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5592,7 +5563,7 @@ GameObject:
   m_Component:
   - component: {fileID: 312249904}
   - component: {fileID: 312249905}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5675,7 +5646,7 @@ GameObject:
   - component: {fileID: 313131286}
   - component: {fileID: 313131285}
   - component: {fileID: 313131284}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SlowTimeCollider (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5829,7 +5800,7 @@ GameObject:
   - component: {fileID: 319909377}
   - component: {fileID: 319909376}
   m_Layer: 0
-  m_Name: DragonBody (7)
+  m_Name: DragonTail
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5843,10 +5814,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 319909374}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -15.416452, y: 0.5388155, z: 1.5400119}
+  m_LocalPosition: {x: -16.16, y: -0.2, z: 1.5400119}
   m_LocalScale: {x: -0.11219098, y: 0.11219101, z: 0.11219101}
-  m_Children:
-  - {fileID: 35828275}
+  m_Children: []
   m_Father: {fileID: 605535355}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -5862,10 +5832,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b87291fb2458abf46a875621fa23e1bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 8
-  turnSpeed: 8
+  speed: 6
+  turnSpeed: 3
   distance: 0.01
-  target: {fileID: 1505335083}
+  sprintSpeed: 6
+  size: 0.112129
+  thingToFollow: {fileID: 1505335083}
 --- !u!61 &319909377
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5952,7 +5924,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 320681620}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform8x01Stone (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5993,7 +5965,7 @@ GameObject:
   m_Component:
   - component: {fileID: 324009679}
   - component: {fileID: 324009680}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6050,7 +6022,7 @@ GameObject:
   m_Component:
   - component: {fileID: 334553327}
   - component: {fileID: 334553328}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6131,7 +6103,7 @@ GameObject:
   m_Component:
   - component: {fileID: 339927745}
   - component: {fileID: 339927746}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6188,7 +6160,7 @@ GameObject:
   m_Component:
   - component: {fileID: 340328691}
   - component: {fileID: 340328692}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6245,7 +6217,7 @@ GameObject:
   m_Component:
   - component: {fileID: 349186160}
   - component: {fileID: 349186161}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6302,7 +6274,7 @@ GameObject:
   m_Component:
   - component: {fileID: 351285477}
   - component: {fileID: 351285478}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6359,7 +6331,7 @@ GameObject:
   m_Component:
   - component: {fileID: 354213336}
   - component: {fileID: 354213337}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6440,7 +6412,7 @@ GameObject:
   m_Component:
   - component: {fileID: 357727085}
   - component: {fileID: 357727086}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6497,7 +6469,7 @@ GameObject:
   m_Component:
   - component: {fileID: 366350125}
   - component: {fileID: 366350126}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6578,7 +6550,7 @@ GameObject:
   m_Component:
   - component: {fileID: 368108123}
   - component: {fileID: 368108124}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6659,7 +6631,7 @@ GameObject:
   m_Component:
   - component: {fileID: 368769940}
   - component: {fileID: 368769941}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6716,7 +6688,7 @@ GameObject:
   m_Component:
   - component: {fileID: 380360278}
   - component: {fileID: 380360279}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6773,7 +6745,7 @@ GameObject:
   m_Component:
   - component: {fileID: 393235090}
   - component: {fileID: 393235091}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6854,7 +6826,7 @@ GameObject:
   m_Component:
   - component: {fileID: 394577357}
   - component: {fileID: 394577358}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6934,7 +6906,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 397343039}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform4x01Stone (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6972,7 +6944,7 @@ GameObject:
   m_Component:
   - component: {fileID: 398379420}
   - component: {fileID: 398379421}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7053,7 +7025,7 @@ GameObject:
   m_Component:
   - component: {fileID: 398730084}
   - component: {fileID: 398730085}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7110,7 +7082,7 @@ GameObject:
   m_Component:
   - component: {fileID: 402560001}
   - component: {fileID: 402560002}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7227,7 +7199,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 410142938}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Colliders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7266,7 +7238,7 @@ GameObject:
   m_Component:
   - component: {fileID: 415146745}
   - component: {fileID: 415146746}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7346,7 +7318,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 418227146}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform4x01Stone (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7384,7 +7356,7 @@ GameObject:
   m_Component:
   - component: {fileID: 421699583}
   - component: {fileID: 421699584}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7441,7 +7413,7 @@ GameObject:
   m_Component:
   - component: {fileID: 425304533}
   - component: {fileID: 425304534}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7522,7 +7494,7 @@ GameObject:
   m_Component:
   - component: {fileID: 426989035}
   - component: {fileID: 426989036}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7602,7 +7574,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 429319076}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform16x01Stone (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7649,7 +7621,7 @@ GameObject:
   - component: {fileID: 435630648}
   - component: {fileID: 435630647}
   - component: {fileID: 435630646}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SlowTimeCollider (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7770,7 +7742,7 @@ GameObject:
   m_Component:
   - component: {fileID: 444845031}
   - component: {fileID: 444845032}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7827,7 +7799,7 @@ GameObject:
   m_Component:
   - component: {fileID: 445175187}
   - component: {fileID: 445175188}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7979,7 +7951,7 @@ GameObject:
   m_Component:
   - component: {fileID: 454898297}
   - component: {fileID: 454898298}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8062,7 +8034,7 @@ GameObject:
   - component: {fileID: 459552042}
   - component: {fileID: 459552041}
   - component: {fileID: 459552040}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SlowTimeCollider (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8183,7 +8155,7 @@ GameObject:
   m_Component:
   - component: {fileID: 463752429}
   - component: {fileID: 463752430}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8264,7 +8236,7 @@ GameObject:
   m_Component:
   - component: {fileID: 468178520}
   - component: {fileID: 468178521}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8342,6 +8314,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1447591493}
     m_Modifications:
+    - target: {fileID: 100000, guid: 18fcd494ab71841d695135246693eb3a, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 18fcd494ab71841d695135246693eb3a, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -8452,7 +8428,7 @@ GameObject:
   m_Component:
   - component: {fileID: 470005769}
   - component: {fileID: 470005770}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8563,7 +8539,7 @@ GameObject:
   m_Component:
   - component: {fileID: 474853866}
   - component: {fileID: 474853867}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8644,7 +8620,7 @@ GameObject:
   m_Component:
   - component: {fileID: 478096147}
   - component: {fileID: 478096148}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8701,7 +8677,7 @@ GameObject:
   m_Component:
   - component: {fileID: 518325313}
   - component: {fileID: 518325314}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8782,7 +8758,7 @@ GameObject:
   m_Component:
   - component: {fileID: 519218863}
   - component: {fileID: 519218864}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8839,7 +8815,7 @@ GameObject:
   m_Component:
   - component: {fileID: 526571914}
   - component: {fileID: 526571915}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8920,7 +8896,7 @@ GameObject:
   m_Component:
   - component: {fileID: 528997001}
   - component: {fileID: 528997002}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9001,7 +8977,7 @@ GameObject:
   m_Component:
   - component: {fileID: 530260407}
   - component: {fileID: 530260408}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9132,7 +9108,7 @@ GameObject:
   m_Component:
   - component: {fileID: 543402296}
   - component: {fileID: 543402297}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9213,7 +9189,7 @@ GameObject:
   m_Component:
   - component: {fileID: 547407302}
   - component: {fileID: 547407303}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9294,7 +9270,7 @@ GameObject:
   m_Component:
   - component: {fileID: 548985460}
   - component: {fileID: 548985461}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9351,7 +9327,7 @@ GameObject:
   m_Component:
   - component: {fileID: 553814132}
   - component: {fileID: 553814133}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9487,7 +9463,7 @@ GameObject:
   m_Component:
   - component: {fileID: 556728421}
   - component: {fileID: 556728422}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9568,7 +9544,7 @@ GameObject:
   m_Component:
   - component: {fileID: 556831667}
   - component: {fileID: 556831668}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9649,7 +9625,7 @@ GameObject:
   m_Component:
   - component: {fileID: 562723161}
   - component: {fileID: 562723162}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9706,7 +9682,7 @@ GameObject:
   m_Component:
   - component: {fileID: 566646882}
   - component: {fileID: 566646883}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9787,7 +9763,7 @@ GameObject:
   m_Component:
   - component: {fileID: 569554816}
   - component: {fileID: 569554817}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9844,7 +9820,7 @@ GameObject:
   m_Component:
   - component: {fileID: 585491160}
   - component: {fileID: 585491161}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10023,7 +9999,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 591226827}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -10.8364525, y: 0.5388155, z: 1.5400119}
+  m_LocalPosition: {x: -11.579998, y: -0.19999981, z: 1.5400119}
   m_LocalScale: {x: -0.11219098, y: 0.11219101, z: 0.11219101}
   m_Children:
   - {fileID: 592402083}
@@ -10042,10 +10018,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b87291fb2458abf46a875621fa23e1bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 8
-  turnSpeed: 8
+  speed: 6
+  turnSpeed: 3
   distance: 0.01
-  target: {fileID: 474392762}
+  sprintSpeed: 6
+  size: 0.112129
+  thingToFollow: {fileID: 474392762}
 --- !u!61 &591226830
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10133,7 +10111,7 @@ GameObject:
   m_Component:
   - component: {fileID: 591481700}
   - component: {fileID: 591481701}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10244,7 +10222,7 @@ GameObject:
   m_Component:
   - component: {fileID: 592521606}
   - component: {fileID: 592521607}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10325,7 +10303,7 @@ GameObject:
   m_Component:
   - component: {fileID: 597471302}
   - component: {fileID: 597471303}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10382,7 +10360,7 @@ GameObject:
   m_Component:
   - component: {fileID: 604074757}
   - component: {fileID: 604074758}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10463,7 +10441,7 @@ GameObject:
   m_Component:
   - component: {fileID: 605342684}
   - component: {fileID: 605342685}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10582,7 +10560,7 @@ GameObject:
   m_Component:
   - component: {fileID: 605902624}
   - component: {fileID: 605902625}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10663,7 +10641,7 @@ GameObject:
   m_Component:
   - component: {fileID: 609087602}
   - component: {fileID: 609087603}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10720,6 +10698,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 18fcd494ab71841d695135246693eb3a, type: 3}
       propertyPath: m_Name
       value: Rocks
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 18fcd494ab71841d695135246693eb3a, type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 18fcd494ab71841d695135246693eb3a, type: 3}
       propertyPath: m_IsActive
@@ -10987,7 +10969,7 @@ GameObject:
   m_Component:
   - component: {fileID: 635871705}
   - component: {fileID: 635871706}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11044,7 +11026,7 @@ GameObject:
   m_Component:
   - component: {fileID: 641598726}
   - component: {fileID: 641598727}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11100,7 +11082,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 642928684}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform8x01Stone (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11141,7 +11123,7 @@ GameObject:
   m_Component:
   - component: {fileID: 651104084}
   - component: {fileID: 651104085}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11222,7 +11204,7 @@ GameObject:
   m_Component:
   - component: {fileID: 651773470}
   - component: {fileID: 651773471}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11279,7 +11261,7 @@ GameObject:
   m_Component:
   - component: {fileID: 654172723}
   - component: {fileID: 654172724}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11360,7 +11342,7 @@ GameObject:
   m_Component:
   - component: {fileID: 656722976}
   - component: {fileID: 656722977}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11417,7 +11399,7 @@ GameObject:
   m_Component:
   - component: {fileID: 658567096}
   - component: {fileID: 658567097}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11497,7 +11479,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 660020841}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform16x01Stone (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11542,7 +11524,7 @@ GameObject:
   m_Component:
   - component: {fileID: 664133773}
   - component: {fileID: 664133774}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11623,7 +11605,7 @@ GameObject:
   m_Component:
   - component: {fileID: 665261024}
   - component: {fileID: 665261025}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11704,7 +11686,7 @@ GameObject:
   m_Component:
   - component: {fileID: 670846645}
   - component: {fileID: 670846646}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11785,7 +11767,7 @@ GameObject:
   m_Component:
   - component: {fileID: 672280916}
   - component: {fileID: 672280917}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11842,7 +11824,7 @@ GameObject:
   m_Component:
   - component: {fileID: 675633870}
   - component: {fileID: 675633871}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11951,7 +11933,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   anim: {fileID: 676812868}
   ch: {fileID: 1502979963}
-  thing: {fileID: 1245411133}
+  thing: {fileID: 0}
 --- !u!61 &676812863
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12311,7 +12293,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 691553035}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: killzoneholder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12460,7 +12442,7 @@ GameObject:
   m_Component:
   - component: {fileID: 698250879}
   - component: {fileID: 698250880}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12619,7 +12601,7 @@ GameObject:
   m_Component:
   - component: {fileID: 710100948}
   - component: {fileID: 710100949}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12700,7 +12682,7 @@ GameObject:
   m_Component:
   - component: {fileID: 716129169}
   - component: {fileID: 716129170}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12757,7 +12739,7 @@ GameObject:
   m_Component:
   - component: {fileID: 720603338}
   - component: {fileID: 720603339}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12838,7 +12820,7 @@ GameObject:
   m_Component:
   - component: {fileID: 721645235}
   - component: {fileID: 721645236}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12895,7 +12877,7 @@ GameObject:
   m_Component:
   - component: {fileID: 727694007}
   - component: {fileID: 727694008}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12976,7 +12958,7 @@ GameObject:
   m_Component:
   - component: {fileID: 736564893}
   - component: {fileID: 736564894}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13033,7 +13015,7 @@ GameObject:
   m_Component:
   - component: {fileID: 737825781}
   - component: {fileID: 737825782}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13143,7 +13125,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 754006454}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform8x01Stone (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13184,7 +13166,7 @@ GameObject:
   m_Component:
   - component: {fileID: 759123184}
   - component: {fileID: 759123185}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13322,7 +13304,7 @@ GameObject:
   m_Component:
   - component: {fileID: 769344190}
   - component: {fileID: 769344191}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13430,7 +13412,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 782561210}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform4x01Stone (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13468,7 +13450,7 @@ GameObject:
   m_Component:
   - component: {fileID: 784295323}
   - component: {fileID: 784295324}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13549,7 +13531,7 @@ GameObject:
   m_Component:
   - component: {fileID: 788170602}
   - component: {fileID: 788170603}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13630,7 +13612,7 @@ GameObject:
   m_Component:
   - component: {fileID: 789424304}
   - component: {fileID: 789424305}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13785,7 +13767,7 @@ GameObject:
   m_Component:
   - component: {fileID: 798031889}
   - component: {fileID: 798031890}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13842,7 +13824,7 @@ GameObject:
   m_Component:
   - component: {fileID: 801388300}
   - component: {fileID: 801388301}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13923,7 +13905,7 @@ GameObject:
   m_Component:
   - component: {fileID: 806651309}
   - component: {fileID: 806651310}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13980,7 +13962,7 @@ GameObject:
   m_Component:
   - component: {fileID: 807493107}
   - component: {fileID: 807493108}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14039,7 +14021,7 @@ GameObject:
   - component: {fileID: 812635342}
   - component: {fileID: 812635341}
   - component: {fileID: 812635340}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SlowTimeCollider (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14160,7 +14142,7 @@ GameObject:
   m_Component:
   - component: {fileID: 813932884}
   - component: {fileID: 813932885}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14241,7 +14223,7 @@ GameObject:
   m_Component:
   - component: {fileID: 818164824}
   - component: {fileID: 818164825}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14298,7 +14280,7 @@ GameObject:
   m_Component:
   - component: {fileID: 821702688}
   - component: {fileID: 821702689}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14355,7 +14337,7 @@ GameObject:
   m_Component:
   - component: {fileID: 825116962}
   - component: {fileID: 825116963}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14412,7 +14394,7 @@ GameObject:
   m_Component:
   - component: {fileID: 831518179}
   - component: {fileID: 831518180}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14469,7 +14451,7 @@ GameObject:
   m_Component:
   - component: {fileID: 834429298}
   - component: {fileID: 834429299}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14550,7 +14532,7 @@ GameObject:
   m_Component:
   - component: {fileID: 848878875}
   - component: {fileID: 848878876}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14709,7 +14691,7 @@ GameObject:
   m_Component:
   - component: {fileID: 866067508}
   - component: {fileID: 866067509}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14766,7 +14748,7 @@ GameObject:
   m_Component:
   - component: {fileID: 866217255}
   - component: {fileID: 866217256}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14928,7 +14910,7 @@ GameObject:
   m_Component:
   - component: {fileID: 872681018}
   - component: {fileID: 872681019}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14985,7 +14967,7 @@ GameObject:
   m_Component:
   - component: {fileID: 874613777}
   - component: {fileID: 874613778}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15042,7 +15024,7 @@ GameObject:
   m_Component:
   - component: {fileID: 878258834}
   - component: {fileID: 878258835}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15123,7 +15105,7 @@ GameObject:
   m_Component:
   - component: {fileID: 879478161}
   - component: {fileID: 879478162}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15203,7 +15185,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 886502143}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform4x01Stone (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15241,7 +15223,7 @@ GameObject:
   m_Component:
   - component: {fileID: 887429188}
   - component: {fileID: 887429189}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15298,7 +15280,7 @@ GameObject:
   m_Component:
   - component: {fileID: 889315252}
   - component: {fileID: 889315253}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15354,7 +15336,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 901097009}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform16x01Stone (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15399,7 +15381,7 @@ GameObject:
   m_Component:
   - component: {fileID: 903392809}
   - component: {fileID: 903392810}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15456,7 +15438,7 @@ GameObject:
   m_Component:
   - component: {fileID: 905218428}
   - component: {fileID: 905218429}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15565,7 +15547,7 @@ GameObject:
   m_Component:
   - component: {fileID: 908954547}
   - component: {fileID: 908954548}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15646,7 +15628,7 @@ GameObject:
   m_Component:
   - component: {fileID: 915550962}
   - component: {fileID: 915550963}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15727,7 +15709,7 @@ GameObject:
   m_Component:
   - component: {fileID: 923498670}
   - component: {fileID: 923498671}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15808,7 +15790,7 @@ GameObject:
   m_Component:
   - component: {fileID: 928084360}
   - component: {fileID: 928084361}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15865,7 +15847,7 @@ GameObject:
   m_Component:
   - component: {fileID: 937691307}
   - component: {fileID: 937691308}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15946,7 +15928,7 @@ GameObject:
   m_Component:
   - component: {fileID: 937822083}
   - component: {fileID: 937822084}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16003,7 +15985,7 @@ GameObject:
   m_Component:
   - component: {fileID: 942143100}
   - component: {fileID: 942143101}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16088,7 +16070,7 @@ GameObject:
   m_Component:
   - component: {fileID: 947572361}
   - component: {fileID: 947572362}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16169,7 +16151,7 @@ GameObject:
   m_Component:
   - component: {fileID: 949400950}
   - component: {fileID: 949400951}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16250,7 +16232,7 @@ GameObject:
   m_Component:
   - component: {fileID: 958100204}
   - component: {fileID: 958100205}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16307,7 +16289,7 @@ GameObject:
   m_Component:
   - component: {fileID: 958985858}
   - component: {fileID: 958985859}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16388,7 +16370,7 @@ GameObject:
   m_Component:
   - component: {fileID: 959826290}
   - component: {fileID: 959826291}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16469,7 +16451,7 @@ GameObject:
   m_Component:
   - component: {fileID: 960456261}
   - component: {fileID: 960456262}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16550,7 +16532,7 @@ GameObject:
   m_Component:
   - component: {fileID: 962878149}
   - component: {fileID: 962878150}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16631,7 +16613,7 @@ GameObject:
   m_Component:
   - component: {fileID: 963271241}
   - component: {fileID: 963271242}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16712,7 +16694,7 @@ GameObject:
   m_Component:
   - component: {fileID: 972513925}
   - component: {fileID: 972513926}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16769,7 +16751,7 @@ GameObject:
   m_Component:
   - component: {fileID: 986898682}
   - component: {fileID: 986898683}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16850,7 +16832,7 @@ GameObject:
   m_Component:
   - component: {fileID: 987428753}
   - component: {fileID: 987428754}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16931,7 +16913,7 @@ GameObject:
   m_Component:
   - component: {fileID: 989162412}
   - component: {fileID: 989162413}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17012,7 +16994,7 @@ GameObject:
   m_Component:
   - component: {fileID: 991255697}
   - component: {fileID: 991255698}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17069,7 +17051,7 @@ GameObject:
   m_Component:
   - component: {fileID: 992544159}
   - component: {fileID: 992544160}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17149,7 +17131,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 992635316}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform8x01Stone (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17190,7 +17172,7 @@ GameObject:
   m_Component:
   - component: {fileID: 994396354}
   - component: {fileID: 994396355}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17268,6 +17250,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1447591493}
     m_Modifications:
+    - target: {fileID: 100000, guid: 18fcd494ab71841d695135246693eb3a, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 18fcd494ab71841d695135246693eb3a, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -17378,7 +17364,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1005864471}
   - component: {fileID: 1005864472}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17459,7 +17445,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1006642721}
   - component: {fileID: 1006642722}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17540,7 +17526,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1007543374}
   - component: {fileID: 1007543375}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17621,7 +17607,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1009360278}
   - component: {fileID: 1009360279}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17678,7 +17664,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1014889836}
   - component: {fileID: 1014889837}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17735,7 +17721,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1017388848}
   - component: {fileID: 1017388849}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17816,7 +17802,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1018071920}
   - component: {fileID: 1018071921}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17897,7 +17883,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1019178066}
   - component: {fileID: 1019178067}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18186,7 +18172,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1022048871}
   - component: {fileID: 1022048872}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18243,7 +18229,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1022820469}
   - component: {fileID: 1022820470}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18324,7 +18310,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1030386977}
   - component: {fileID: 1030386978}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18405,7 +18391,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1035185084}
   - component: {fileID: 1035185085}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18486,7 +18472,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1045723107}
   - component: {fileID: 1045723108}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18567,7 +18553,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1045883937}
   - component: {fileID: 1045883938}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18726,7 +18712,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1053983308}
   - component: {fileID: 1053983309}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18807,7 +18793,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1054672336}
   - component: {fileID: 1054672337}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18968,7 +18954,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1055375862}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Map/Platforms
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19039,7 +19025,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1058465151}
   - component: {fileID: 1058465152}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19096,7 +19082,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1063849352}
   - component: {fileID: 1063849353}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19307,7 +19293,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1069221254}
   - component: {fileID: 1069221255}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19388,7 +19374,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1069760606}
   - component: {fileID: 1069760607}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19445,7 +19431,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1073504621}
   - component: {fileID: 1073504622}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19525,7 +19511,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1081118190}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform4x01Stone (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19563,7 +19549,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1087568341}
   - component: {fileID: 1087568342}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19644,7 +19630,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1087823612}
   - component: {fileID: 1087823613}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19782,7 +19768,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1097348514}
   - component: {fileID: 1097348515}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19863,7 +19849,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1105599433}
   - component: {fileID: 1105599434}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19917,6 +19903,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1447591493}
     m_Modifications:
+    - target: {fileID: 100000, guid: 18fcd494ab71841d695135246693eb3a, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 18fcd494ab71841d695135246693eb3a, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -20027,7 +20017,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1111867039}
   - component: {fileID: 1111867040}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20108,7 +20098,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1112656274}
   - component: {fileID: 1112656275}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20189,7 +20179,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1112669753}
   - component: {fileID: 1112669754}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20270,7 +20260,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1117012768}
   - component: {fileID: 1117012769}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20351,7 +20341,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1118488201}
   - component: {fileID: 1118488202}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20432,7 +20422,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1124102417}
   - component: {fileID: 1124102418}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20591,7 +20581,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1130400756}
   - component: {fileID: 1130400757}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20672,7 +20662,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1132131733}
   - component: {fileID: 1132131734}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20752,7 +20742,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1133613275}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform8x01Stone (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20793,7 +20783,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1134033002}
   - component: {fileID: 1134033003}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20850,7 +20840,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1134639697}
   - component: {fileID: 1134639698}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20931,7 +20921,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1135481556}
   - component: {fileID: 1135481557}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21090,7 +21080,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1146448850}
   - component: {fileID: 1146448851}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21170,7 +21160,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1146754860}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform16x01Stone (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21319,7 +21309,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1150305630}
   - component: {fileID: 1150305631}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21399,7 +21389,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1151276557}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform8x01Stone (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21440,7 +21430,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1166044538}
   - component: {fileID: 1166044539}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21608,7 +21598,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1175498221}
   - component: {fileID: 1175498222}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21682,7 +21672,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1176660067}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -13.026452, y: 0.5388155, z: 1.5400119}
+  m_LocalPosition: {x: -13.769998, y: -0.19999981, z: 1.5400119}
   m_LocalScale: {x: -0.11219098, y: 0.11219101, z: 0.11219101}
   m_Children:
   - {fileID: 1505335084}
@@ -21701,10 +21691,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b87291fb2458abf46a875621fa23e1bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 8
-  turnSpeed: 8
+  speed: 6
+  turnSpeed: 3
   distance: 0.01
-  target: {fileID: 592402082}
+  sprintSpeed: 6
+  size: 0.112129
+  thingToFollow: {fileID: 592402082}
 --- !u!61 &1176660070
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -21792,7 +21784,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1180532835}
   - component: {fileID: 1180532836}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21849,7 +21841,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1183003476}
   - component: {fileID: 1183003477}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21930,7 +21922,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1183948939}
   - component: {fileID: 1183948940}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21987,7 +21979,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1184131366}
   - component: {fileID: 1184131367}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22068,7 +22060,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1194575572}
   - component: {fileID: 1194575573}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22178,7 +22170,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1205237590}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform4x01Stone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22244,7 +22236,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1215374069}
   - component: {fileID: 1215374070}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22301,7 +22293,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1221774596}
   - component: {fileID: 1221774597}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22456,7 +22448,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1232029593}
   - component: {fileID: 1232029594}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22537,7 +22529,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1245309958}
   - component: {fileID: 1245309959}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22593,10 +22585,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1245411129}
-  - component: {fileID: 1245411134}
-  - component: {fileID: 1245411133}
-  - component: {fileID: 1245411132}
   - component: {fileID: 1245411130}
+  - component: {fileID: 1245411132}
+  - component: {fileID: 1245411131}
   m_Layer: 1
   m_Name: DragonHead
   m_TagString: Untagged
@@ -22612,33 +22603,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1245411128}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.8135481, y: 0.87881565, z: 1.5400119}
-  m_LocalScale: {x: -0.13650094, y: 0.13650094, z: 0.13650094}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.129693, y: 0.12969299, z: 0.12969299}
   m_Children:
   - {fileID: 1949328817}
   m_Father: {fileID: 605535355}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &1245411130
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1245411128}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &1245411132
+--- !u!114 &1245411130
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -22651,8 +22623,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 6
-  turnSpeed: 5
---- !u!61 &1245411133
+  turnSpeed: 3
+  distance: 25
+  sprintSpeed: 6
+  size: 0.129693
+--- !u!61 &1245411131
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -22678,7 +22653,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 13.65, y: 10.2}
   m_EdgeRadius: 0
---- !u!212 &1245411134
+--- !u!212 &1245411132
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -22720,7 +22695,7 @@ SpriteRenderer:
   m_Sprite: {fileID: -9008708269745487483, guid: 3c2d2ad431ba1884d8bcff0a53fcacfa,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 1, y: 1}
@@ -22729,6 +22704,92 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1261524094
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1261524096}
+  - component: {fileID: 1261524095}
+  m_Layer: 0
+  m_Name: PathFinding
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1261524095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1261524094}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78396926cbbfc4ac3b48fc5fc34a87d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 1
+  data:
+    dataString: UEsDBBQAAAgIAACIn+smxr1PbQIAABsFAAALACQAZ3JhcGgwLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQFlVE1zmzAQ/SsenWsPYOyY3lriOD0kzsTt5MJFwGI0FhIjifgj4//elQBDXS6It19v3674IkzoGjIj1Uax/EXmQL5PiD2Tb5PB+Awnupdixy7Q+3yw3JTWiTqfd2qYRNy3YVpWYBTLfog9t84ego1ghVTVOt9DLLXRCBeUa0CTksZGC4S+JuSEr2lkQ854Ch7s6YKnyJtc8ZiBMKAGV28WRvis/D5gFrlnEXRxi9l8GYb+PFytp96Dy9GIjNOqhtw2NKRaLvocUZtk5Tt3gS13nrZKJjlnuuNLzLl2esS01g12iw45o9i/I+nP5giUwPalsYnH4dui0GA6eRQ9PzKFQrZ5yU/ZqltRfWgZflLe2ErBYulYtUlf/rNPW9KFktVzX9f3bA1TsuzwTs8Z1WYk/xh+HFF3Qh0pP9CUw0cJ4lVulGxEjkajGhvaaAgeh89ba3EJ2WHAW6p3YFOPhtgJ38/a9nB13Z9izqq0nXML7Lh0irsVAYWz+YWE3QLpLgWilsUfDb/pfrxpneGJKW3Q1HUpLL1UNsq6krXTzHbTmFgqAQ7uSNcgKDfnN0xj7kd4ZxuVvbM8UXunuuKdrb8qdyEOHvw97870Jo+3YelSHl9Al9vGcCZgIG0Nr6hTLIVoN2ysSR+2a1RBs1HYvmH5v6tFwhQCGmYhpZG3SEM6DZdpngWpR6PVPPT9gLjdYwL7pPytJdrJg1MTQ3KBe9b/aiYbRWu37bmixw27VHJMkIlC7jIFILZtihtzUFgFL2a+zhkqtANjmHADJ18J4TI7QJ7caiau1fXJKJoMWRJSs09pLJKQ2P1cEnIl179QSwMEFAAACAgAAIif6wNOzr5tAAAAeAAAAAkAJABtZXRhLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQGrVipLLSrOzM9TslIw0TPSMzTVUVBKL0osyCgGihiCOKWZKSB2tJJJUqpRokmySWKipYFpkkmirolZUkqyUZJBoqWFsYmhoZFSLFB9SWVBql9ibipET0BiSUZaZl5KZl66nntRZoo7yGil2FoAUEsBAi0AFAAACAgAAIif6ybGvU9tAgAAGwUAAAsAJAAAAAAAAAAAAAAAAAAAAGdyYXBoMC5qc29uCgAgAAAAAAABABgAAIA+1d6xnQEAgD7V3rGdAQCAPtXesZ0BUEsBAi0AFAAACAgAAIif6wNOzr5tAAAAeAAAAAkAJAAAAAAAAAAAAAAAugIAAG1ldGEuanNvbgoAIAAAAAAAAQAYAACAPtXesZ0BAIA+1d6xnQEAgD7V3rGdAVBLBQYAAAAAAgACALgAAAByAwAAAAA=
+    upgradeData: 
+    file_cachedStartup: {fileID: 0}
+    data_cachedStartup: 
+    cacheStartup: 0
+  showNavGraphs: 1
+  showUnwalkableNodes: 1
+  debugMode: 0
+  debugFloor: 0
+  debugRoof: 1
+  manualDebugFloorRoof: 0
+  showSearchTree: 0
+  unwalkableNodeDebugSize: 0.3
+  logPathResults: 0
+  maxNearestNodeDistance: 100
+  scanOnStartup: 1
+  fullGetNearestSearch: 0
+  prioritizeGraphs: 0
+  prioritizeGraphsLimit: 1
+  colorSettings:
+    _SolidColor: {r: 0.11764706, g: 0.4, b: 0.7882353, a: 0.9}
+    _UnwalkableNode: {r: 1, g: 0, b: 0, a: 0.5}
+    _BoundsHandles: {r: 0.29, g: 0.454, b: 0.741, a: 0.9}
+    _ConnectionLowLerp: {r: 0, g: 1, b: 0, a: 0.5}
+    _ConnectionHighLerp: {r: 1, g: 0, b: 0, a: 0.5}
+    _MeshEdgeColor: {r: 0, g: 0, b: 0, a: 0.5}
+    _AreaColors:
+    - {r: 0, g: 0, b: 0, a: 0}
+  tagNames: []
+  heuristic: 2
+  heuristicScale: 1
+  threadCount: 1
+  maxFrameTime: 10
+  batchGraphUpdates: 0
+  graphUpdateBatchingInterval: 0.2
+  euclideanEmbedding:
+    mode: 0
+    seed: 0
+    pivotPointRoot: {fileID: 0}
+    spreadOutCount: 1
+  showGraphs: 1
+--- !u!4 &1261524096
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1261524094}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.30794525, y: -3.04, z: 10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 172501327}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1262659011
 GameObject:
   m_ObjectHideFlags: 0
@@ -22739,7 +22800,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1262659012}
   - component: {fileID: 1262659013}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22820,7 +22881,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1267177908}
   - component: {fileID: 1267177909}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22876,7 +22937,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1267325709}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform8x01Stone (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22993,7 +23054,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1275873412}
   - component: {fileID: 1275873413}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23073,7 +23134,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1277837503}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform8x01Stone (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23114,7 +23175,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1285647836}
   - component: {fileID: 1285647837}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23195,7 +23256,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1288686379}
   - component: {fileID: 1288686380}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23276,7 +23337,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1289380194}
   - component: {fileID: 1289380195}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23357,7 +23418,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1290216215}
   - component: {fileID: 1290216216}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23532,7 +23593,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1304722486}
   - component: {fileID: 1304722487}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23589,7 +23650,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1309250734}
   - component: {fileID: 1309250735}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23670,7 +23731,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1310564036}
   - component: {fileID: 1310564037}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23727,7 +23788,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1314797001}
   - component: {fileID: 1314797002}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23784,7 +23845,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1319312120}
   - component: {fileID: 1319312121}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23865,7 +23926,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1322130808}
   - component: {fileID: 1322130809}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23946,7 +24007,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1325413069}
   - component: {fileID: 1325413070}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24027,7 +24088,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1337002213}
   - component: {fileID: 1337002214}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24125,7 +24186,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1342134344}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4.2164516, y: 0.5388155, z: 1.5400119}
+  m_LocalPosition: {x: -4.959997, y: -0.19999981, z: 1.5400119}
   m_LocalScale: {x: -0.11219098, y: 0.11219101, z: 0.11219101}
   m_Children:
   - {fileID: 1195285715}
@@ -24144,10 +24205,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b87291fb2458abf46a875621fa23e1bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 8
-  turnSpeed: 8
+  speed: 6
+  turnSpeed: 3
   distance: 0.01
-  target: {fileID: 316158895}
+  sprintSpeed: 6
+  size: 0.112129
+  thingToFollow: {fileID: 316158895}
 --- !u!61 &1342134347
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -24235,7 +24298,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1350917038}
   - component: {fileID: 1350917039}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24315,7 +24378,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1355794301}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform4x01Stone (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24353,7 +24416,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1357532022}
   - component: {fileID: 1357532023}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24434,7 +24497,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1359740877}
   - component: {fileID: 1359740878}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24516,7 +24579,7 @@ GameObject:
   - component: {fileID: 1363902780}
   - component: {fileID: 1363902779}
   - component: {fileID: 1363902778}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Killzone (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24582,6 +24645,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1447591493}
     m_Modifications:
+    - target: {fileID: 100000, guid: 18fcd494ab71841d695135246693eb3a, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 18fcd494ab71841d695135246693eb3a, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -24692,7 +24759,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1365696944}
   - component: {fileID: 1365696945}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24773,7 +24840,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1369670899}
   - component: {fileID: 1369670900}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24854,7 +24921,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1371560824}
   - component: {fileID: 1371560825}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24935,7 +25002,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1371986840}
   - component: {fileID: 1371986841}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25018,7 +25085,7 @@ GameObject:
   - component: {fileID: 1383396975}
   - component: {fileID: 1383396974}
   - component: {fileID: 1383396973}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: WinCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25140,7 +25207,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1385296008}
   - component: {fileID: 1385296009}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25197,7 +25264,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1387380506}
   - component: {fileID: 1387380507}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25306,7 +25373,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1392182255}
   - component: {fileID: 1392182256}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25387,7 +25454,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1393173708}
   - component: {fileID: 1393173709}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25468,7 +25535,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1395993887}
   - component: {fileID: 1395993888}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25549,7 +25616,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1396010501}
   - component: {fileID: 1396010502}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25823,7 +25890,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1407808347}
   - component: {fileID: 1407808348}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25904,7 +25971,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1407882936}
   - component: {fileID: 1407882937}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25984,7 +26051,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1418482293}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform8x01Stone (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26025,7 +26092,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1422563576}
   - component: {fileID: 1422563577}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26106,7 +26173,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1422563953}
   - component: {fileID: 1422563954}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26163,7 +26230,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1433882536}
   - component: {fileID: 1433882537}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26244,7 +26311,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1437643242}
   - component: {fileID: 1437643243}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26301,7 +26368,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1438200807}
   - component: {fileID: 1438200808}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26381,7 +26448,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1438384746}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform16x01Stone (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26426,7 +26493,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1439714617}
   - component: {fileID: 1439714618}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26506,7 +26573,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1447591493}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Rocks
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26620,7 +26687,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Wasted
+  m_Text: Game Over
 --- !u!222 &1452655344
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -26639,7 +26706,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1454652361}
   - component: {fileID: 1454652362}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26696,7 +26763,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1461353476}
   - component: {fileID: 1461353477}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26777,7 +26844,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1464502881}
   - component: {fileID: 1464502882}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26834,7 +26901,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1465540265}
   - component: {fileID: 1465540266}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26891,7 +26958,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1470186377}
   - component: {fileID: 1470186378}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26972,7 +27039,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1482942414}
   - component: {fileID: 1482942415}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27053,7 +27120,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1496214633}
   - component: {fileID: 1496214634}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27134,7 +27201,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1498846309}
   - component: {fileID: 1498846310}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27393,7 +27460,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1519391394}
   - component: {fileID: 1519391395}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27450,7 +27517,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1522902856}
   - component: {fileID: 1522902857}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27609,7 +27676,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1529820689}
   - component: {fileID: 1529820690}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27690,7 +27757,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1532111258}
   - component: {fileID: 1532111259}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27747,7 +27814,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1533920630}
   - component: {fileID: 1533920631}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27828,7 +27895,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1538042558}
   - component: {fileID: 1538042559}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27908,7 +27975,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1548246734}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform8x01Stone (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27949,7 +28016,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1552331832}
   - component: {fileID: 1552331833}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28006,7 +28073,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1554731454}
   - component: {fileID: 1554731455}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28087,7 +28154,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1559187524}
   - component: {fileID: 1559187525}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28168,7 +28235,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1564542969}
   - component: {fileID: 1564542970}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28225,7 +28292,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1566535615}
   - component: {fileID: 1566535616}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28306,7 +28373,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1568087817}
   - component: {fileID: 1568087818}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28393,7 +28460,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1580826895}
   - component: {fileID: 1580826896}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28473,7 +28540,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1582404673}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform8x01Stone (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28514,7 +28581,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1585069010}
   - component: {fileID: 1585069011}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28568,6 +28635,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1447591493}
     m_Modifications:
+    - target: {fileID: 100000, guid: 18fcd494ab71841d695135246693eb3a, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 18fcd494ab71841d695135246693eb3a, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -28678,7 +28749,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1592360804}
   - component: {fileID: 1592360805}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28735,7 +28806,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1594739555}
   - component: {fileID: 1594739556}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28816,7 +28887,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1596870852}
   - component: {fileID: 1596870853}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28897,7 +28968,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1603946122}
   - component: {fileID: 1603946123}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28954,7 +29025,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1605575383}
   - component: {fileID: 1605575384}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29011,7 +29082,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1605777635}
   - component: {fileID: 1605777636}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29092,7 +29163,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1606423252}
   - component: {fileID: 1606423253}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29173,7 +29244,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1608507402}
   - component: {fileID: 1608507403}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29254,7 +29325,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1614574865}
   - component: {fileID: 1614574866}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29311,7 +29382,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1620596269}
   - component: {fileID: 1620596270}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29466,7 +29537,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1629745235}
   - component: {fileID: 1629745236}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29523,7 +29594,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1633898422}
   - component: {fileID: 1633898423}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29580,7 +29651,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1641137870}
   - component: {fileID: 1641137871}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29661,7 +29732,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1647585490}
   - component: {fileID: 1647585491}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29742,7 +29813,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1648302525}
   - component: {fileID: 1648302526}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29799,7 +29870,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1649195414}
   - component: {fileID: 1649195415}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29880,7 +29951,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1662317953}
   - component: {fileID: 1662317954}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29937,7 +30008,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1672644136}
   - component: {fileID: 1672644137}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30017,7 +30088,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1680332886}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform16x01Stone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30062,7 +30133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1692620178}
   - component: {fileID: 1692620179}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30224,7 +30295,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1696687754}
   - component: {fileID: 1696687755}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30281,7 +30352,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1702533736}
   - component: {fileID: 1702533737}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30362,7 +30433,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1709058185}
   - component: {fileID: 1709058186}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30443,7 +30514,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1712131751}
   - component: {fileID: 1712131752}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30524,7 +30595,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1721265539}
   - component: {fileID: 1721265540}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30605,7 +30676,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1723758569}
   - component: {fileID: 1723758570}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30686,7 +30757,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1729252386}
   - component: {fileID: 1729252387}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30743,7 +30814,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1729610836}
   - component: {fileID: 1729610837}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30800,7 +30871,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1732979836}
   - component: {fileID: 1732979837}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30898,7 +30969,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1733501730}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.256452, y: 0.5388155, z: 1.5400119}
+  m_LocalPosition: {x: -2.9999976, y: -0.19999981, z: 1.5400119}
   m_LocalScale: {x: -0.11219098, y: 0.11219101, z: 0.11219101}
   m_Children:
   - {fileID: 316158896}
@@ -30917,10 +30988,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b87291fb2458abf46a875621fa23e1bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 7
-  turnSpeed: 6
+  speed: 6
+  turnSpeed: 3
   distance: 0.01
-  target: {fileID: 1949328816}
+  sprintSpeed: 6
+  size: 0.112129
+  thingToFollow: {fileID: 1949328816}
 --- !u!61 &1733501733
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -31204,7 +31277,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1748123602}
   - component: {fileID: 1748123603}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31278,7 +31351,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1750370911}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -8.606452, y: 0.5388155, z: 1.5400119}
+  m_LocalPosition: {x: -9.3499975, y: -0.19999981, z: 1.5400119}
   m_LocalScale: {x: -0.11219098, y: 0.11219101, z: 0.11219101}
   m_Children:
   - {fileID: 474392763}
@@ -31297,10 +31370,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b87291fb2458abf46a875621fa23e1bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 8
-  turnSpeed: 8
+  speed: 6
+  turnSpeed: 3
   distance: 0.01
-  target: {fileID: 753509282}
+  sprintSpeed: 6
+  size: 0.112129
+  thingToFollow: {fileID: 753509282}
 --- !u!61 &1750370914
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -31425,7 +31500,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1755531342}
   - component: {fileID: 1755531343}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31505,7 +31580,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1755633973}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform4x01Stone (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31543,7 +31618,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1756580276}
   - component: {fileID: 1756580277}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31600,7 +31675,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1756589757}
   - component: {fileID: 1756589758}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31681,7 +31756,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1757825729}
   - component: {fileID: 1757825730}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31790,7 +31865,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1770323076}
   - component: {fileID: 1770323077}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31871,7 +31946,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1787803380}
   - component: {fileID: 1787803381}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31953,7 +32028,7 @@ GameObject:
   - component: {fileID: 1788312801}
   - component: {fileID: 1788312800}
   - component: {fileID: 1788312799}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Killzone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32022,7 +32097,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1790814882}
   - component: {fileID: 1790814883}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32103,7 +32178,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1792254913}
   - component: {fileID: 1792254914}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32160,7 +32235,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1795097436}
   - component: {fileID: 1795097437}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32241,7 +32316,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1803093805}
   - component: {fileID: 1803093806}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32322,7 +32397,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1819665744}
   - component: {fileID: 1819665745}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32403,7 +32478,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1826684351}
   - component: {fileID: 1826684352}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32484,7 +32559,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1830265663}
   - component: {fileID: 1830265664}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32615,7 +32690,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1833176276}
   - component: {fileID: 1833176277}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32672,7 +32747,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1839303207}
   - component: {fileID: 1839303208}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32753,7 +32828,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1841596953}
   - component: {fileID: 1841596954}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32834,7 +32909,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1847417416}
   - component: {fileID: 1847417417}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32915,7 +32990,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1853142167}
   - component: {fileID: 1853142168}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33026,7 +33101,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1854338932}
   - component: {fileID: 1854338933}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33107,7 +33182,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1860480581}
   - component: {fileID: 1860480582}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33188,7 +33263,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1864326022}
   - component: {fileID: 1864326023}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33245,7 +33320,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1885051807}
   - component: {fileID: 1885051808}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33302,7 +33377,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1888371062}
   - component: {fileID: 1888371063}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33383,7 +33458,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1890826028}
   - component: {fileID: 1890826029}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33463,7 +33538,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1891592264}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform8x01Stone (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33504,7 +33579,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1893363350}
   - component: {fileID: 1893363351}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33585,7 +33660,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1898347257}
   - component: {fileID: 1898347258}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33666,7 +33741,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1899887784}
   - component: {fileID: 1899887785}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33747,7 +33822,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1900973221}
   - component: {fileID: 1900973222}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33828,7 +33903,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1911170870}
   - component: {fileID: 1911170871}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33926,7 +34001,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1912167590}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -6.356452, y: 0.5388155, z: 1.5400119}
+  m_LocalPosition: {x: -7.0999975, y: -0.19999981, z: 1.5400119}
   m_LocalScale: {x: -0.11219098, y: 0.11219101, z: 0.11219101}
   m_Children:
   - {fileID: 753509283}
@@ -33945,10 +34020,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b87291fb2458abf46a875621fa23e1bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 8
-  turnSpeed: 8
+  speed: 6
+  turnSpeed: 3
   distance: 0.01
-  target: {fileID: 1195285714}
+  sprintSpeed: 6
+  size: 0.112129
+  thingToFollow: {fileID: 1195285714}
 --- !u!61 &1912167593
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -34036,7 +34113,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1915075591}
   - component: {fileID: 1915075592}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34117,7 +34194,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1922182278}
   - component: {fileID: 1922182279}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34198,7 +34275,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1928914471}
   - component: {fileID: 1928914472}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34279,7 +34356,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1933451406}
   - component: {fileID: 1933451407}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34360,7 +34437,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1940780368}
   - component: {fileID: 1940780369}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34417,7 +34494,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1940960160}
   - component: {fileID: 1940960161}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34511,8 +34588,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1949328816}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 15.5, y: -3.1, z: 0}
+  m_LocalRotation: {x: -0, y: -0.008726465, z: 0, w: 0.999962}
+  m_LocalPosition: {x: -15.3, y: -3.4, z: -0.3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1245411129}
@@ -34528,7 +34605,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1951953365}
   - component: {fileID: 1951953366}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34585,7 +34662,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1954399304}
   - component: {fileID: 1954399305}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34666,7 +34743,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1958672182}
   - component: {fileID: 1958672183}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34747,7 +34824,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1960463828}
   - component: {fileID: 1960463829}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34828,7 +34905,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1964807027}
   - component: {fileID: 1964807028}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34909,7 +34986,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1969316434}
   - component: {fileID: 1969316435}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34990,7 +35067,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1990230575}
   - component: {fileID: 1990230576}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35047,7 +35124,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1992913953}
   - component: {fileID: 1992913954}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35103,7 +35180,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1995388558}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform4x01Stone (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35140,7 +35217,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1996054189}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform8x01Stone (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35180,7 +35257,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1996068674}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform16x01Stone (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35224,7 +35301,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2009232187}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform4x01Stone (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35261,7 +35338,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2013516229}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform8x01Stone (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35302,7 +35379,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2017841780}
   - component: {fileID: 2017841781}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35383,7 +35460,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2020776723}
   - component: {fileID: 2020776724}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35464,7 +35541,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2028490601}
   - component: {fileID: 2028490602}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35545,7 +35622,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2029863532}
   - component: {fileID: 2029863533}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35731,7 +35808,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2032950238}
   - component: {fileID: 2032950239}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35893,7 +35970,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2035397768}
   - component: {fileID: 2035397769}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35950,7 +36027,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2039583784}
   - component: {fileID: 2039583785}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36031,7 +36108,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2046847615}
   - component: {fileID: 2046847616}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36088,7 +36165,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2047135823}
   - component: {fileID: 2047135824}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36169,7 +36246,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2047207837}
   - component: {fileID: 2047207838}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36250,7 +36327,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2057484986}
   - component: {fileID: 2057484987}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36306,7 +36383,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2064067777}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform8x01Stone (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36347,7 +36424,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2065366319}
   - component: {fileID: 2065366320}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36428,7 +36505,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2070013696}
   - component: {fileID: 2070013697}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36509,7 +36586,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2074868406}
   - component: {fileID: 2074868407}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36590,7 +36667,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2076917017}
   - component: {fileID: 2076917018}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36671,7 +36748,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2077136341}
   - component: {fileID: 2077136342}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36752,7 +36829,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2083549524}
   - component: {fileID: 2083549525}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36833,7 +36910,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2083771270}
   - component: {fileID: 2083771271}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36914,7 +36991,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2083967273}
   - component: {fileID: 2083967274}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36995,7 +37072,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2084588162}
   - component: {fileID: 2084588163}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37076,7 +37153,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2086817800}
   - component: {fileID: 2086817801}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37157,7 +37234,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2092986381}
   - component: {fileID: 2092986382}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37238,7 +37315,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2094953508}
   - component: {fileID: 2094953509}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37321,7 +37398,7 @@ GameObject:
   - component: {fileID: 2100171663}
   - component: {fileID: 2100171662}
   - component: {fileID: 2100171661}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SlowTimeCollider (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37442,7 +37519,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2100379048}
   - component: {fileID: 2100379049}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37523,7 +37600,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2107019184}
   - component: {fileID: 2107019185}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Slider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37577,6 +37654,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1447591493}
     m_Modifications:
+    - target: {fileID: 100000, guid: 18fcd494ab71841d695135246693eb3a, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 18fcd494ab71841d695135246693eb3a, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -37687,7 +37768,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2109009034}
   - component: {fileID: 2109009035}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37768,7 +37849,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2110526705}
   - component: {fileID: 2110526706}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37849,7 +37930,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2110720143}
   - component: {fileID: 2110720144}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37930,7 +38011,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2110856959}
   - component: {fileID: 2110856960}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37987,7 +38068,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2117153507}
   - component: {fileID: 2117153508}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38067,7 +38148,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2120912690}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform8x01Stone (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38107,7 +38188,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2124055810}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform4x01Stone (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38142,6 +38223,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1447591493}
     m_Modifications:
+    - target: {fileID: 100000, guid: 18fcd494ab71841d695135246693eb3a, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 18fcd494ab71841d695135246693eb3a, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -38252,7 +38337,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2132798642}
   - component: {fileID: 2132798643}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38414,7 +38499,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2144563716}
   - component: {fileID: 2144563717}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38495,7 +38580,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2145803259}
   - component: {fileID: 2145803260}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: PrototypeWhite04x01 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38576,7 +38661,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2146357636}
   - component: {fileID: 2146357637}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39989,7 +40074,7 @@ GameObject:
   - component: {fileID: 7372238214111971363}
   - component: {fileID: 7372238214099546628}
   - component: {fileID: 7372238214094528643}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SlowTimeCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
