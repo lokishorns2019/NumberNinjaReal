@@ -2,47 +2,57 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class bodyFollow : MonoBehaviour
 {
+    public float distdos = 0f;
     public float speed = 3f;
-    public float turnSpeed = 3f;
-    public float distance = 25f;
+    public float distance = 1f;
     public float sprintSpeed = 6f;
+    public GameObject previousNode;
     public float size = 1f;
-    public GameObject thingToFollow;
     private Transform target;
+    AIFollow follower;
 
     void Start()
     {
-        target = thingToFollow.GetComponent<Transform>();
+        target = previousNode.GetComponent<Transform>();
+        follower = new AIFollow();
     }
 
     void Update()
     {
-        Vector2 direction = target.transform.position - transform.position;
-        float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
-        Quaternion rotation = Quaternion.AngleAxis(angle, Vector3.forward);
-        transform.rotation = Quaternion.Slerp(transform.rotation, rotation, turnSpeed * Time.deltaTime);
 
-        if (direction.x > 0)
+        if(GameObject.Find("DragonHead").GetComponent<AIFollow>().isSpeedyBoi == true)
         {
-            transform.localScale = new Vector3(size, size, size);
+            speed = 12f;
         }
-        else if (direction.x < 0)
+        else
         {
-            transform.localScale = new Vector3(size, -size, size);
+            speed = 6f;
         }
+
+        Vector2 direction = target.transform.position - transform.position;
+
+
 
         float dist = Vector2.Distance(target.transform.position, transform.position);
-        if (dist > 1 && dist < distance)
+        if (dist < distdos && dist > .3)
+        {
+            transform.position = Vector2.MoveTowards(transform.position, target.position, speed / 2 * Time.deltaTime);
+        }
+        else if (dist > distdos && dist < distance)
         {
             transform.position = Vector2.MoveTowards(transform.position, target.position, speed * Time.deltaTime);
+            if (direction.x < 0)
+            {
+                transform.localScale = new Vector3(size, size, size);
+            }
+            else if (direction.x > 0)
+            {
+                transform.localScale = new Vector3(-size, size, size);
+            }
 
         }
-        else if (dist > distance)
-        {
-            transform.position = Vector2.MoveTowards(transform.position, target.position, sprintSpeed * Time.deltaTime);
-        }
-
     }
 }
