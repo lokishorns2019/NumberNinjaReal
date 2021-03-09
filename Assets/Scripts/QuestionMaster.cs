@@ -14,18 +14,72 @@ public class QuestionMaster : MonoBehaviour {
     public int totalCorrect = 0;
     public int totalQuestions = 0;
 
+
+
     //game object variables
     public string input = " ";
     public GameObject inputField;
-    public GameObject textDisplay;
+    public InputField yourInputField;
+    public Text textDisplay;
+
+    public GameObject gameOver;
+    public GameObject questionScreen;
+    public GameObject win;
+    public GameObject pause;
+    private bool trigger = false;
+
+    public void inputNum()
+    {
+        input = inputField.GetComponent<Text>().text;
+        
+        if (input.Equals(sum.ToString()) == true)
+        {
+            //access time set normal 
+            Time.timeScale = 1f;
+            questionScreen.SetActive(false);
+            //tally correct answer
+            totalCorrect++;
+            trigger = false;
+        }
+        else
+        {
+            //     //have dragon eat cha-boy
+            //turn off controls for user
+            questionScreen.SetActive(false);
+            gameOver.SetActive(true);
+
+        }
+
+        //increment questions
+        totalQuestions++;
+    }
 
     public void displayQuestion() 
     {
-        textDisplay.GetComponent<Text>().text = numberA.ToString() + " + " + numberB.ToString();
+        textDisplay.text = numberA.ToString() + " + " + numberB.ToString();
+        
     }
 
-    
-    private void GenerateQuestions() {
+    public void Update()
+    {
+        if (Time.timeScale < 1f && trigger == false && gameOver.active == false && win.active == false && pause.active == false)
+        {
+
+            GenerateQuestions();
+            questionScreen.SetActive(true);
+            trigger = true;
+            yourInputField.ActivateInputField();
+            yourInputField.text = "";
+
+        }
+        if (Input.GetKeyDown("enter") || Input.GetKey("return"))
+        {
+            inputNum();
+        }
+
+    }
+        
+    void GenerateQuestions() {
 
         //randomizing numbers to be summed from 1-9
         int nA = UnityEngine.Random.Range(1, 9);
@@ -40,28 +94,12 @@ public class QuestionMaster : MonoBehaviour {
 
         //later add subtraction 
 
-        while (Time.timeScale == 0f) {
-            //display question
-            displayQuestion();
-            input = inputField.GetComponent<Text>().text;
-            int answer = Int16.Parse(input);
-            if(answer == sum) {
-                //access time set normal 
-                Time.timeScale = 1f;
-                
-                //tally correct answer
-                totalCorrect++;
-                break;
-            } else {
-                //have dragon eat cha-boy
-                //turn off controls for user
-            }
 
-            //increment questions
-            totalQuestions++;
-        }
+        //display question
+        displayQuestion();
+    }
 
+
+} 
         
-    } // end of GenerateQuestions
-
-}
+    
