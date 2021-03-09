@@ -62,7 +62,7 @@ public class QuestionMaster : MonoBehaviour {
 
     public void Update()
     {
-        if (Time.timeScale < 1f && trigger == false && gameOver.active == false && win.active == false && pause.active == false)
+        if (Time.timeScale == 0f && trigger == false && gameOver.active == false && win.active == false && pause.active == false)
         {
 
             GenerateQuestions();
