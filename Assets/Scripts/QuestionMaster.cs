@@ -72,7 +72,7 @@ public class QuestionMaster : MonoBehaviour {
             yourInputField.text = "";
 
         }
-        if (Input.GetKeyDown("enter") || Input.GetKey("return"))
+        if ((Input.GetKeyDown("enter") || Input.GetKey("return")) && questionScreen.active == true)
         {
             inputNum();
         }
