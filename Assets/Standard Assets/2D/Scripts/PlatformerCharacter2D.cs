@@ -21,6 +21,7 @@ namespace UnityStandardAssets._2D
         private Animator m_Anim;            // Reference to the player's animator component.
         private Rigidbody2D m_Rigidbody2D;
         private bool m_FacingRight = true;  // For determining which way the player is currently facing.
+        private bool canDoubleJump = false; // For double jumping 
 
         private void Awake()
         {
@@ -92,29 +93,30 @@ namespace UnityStandardAssets._2D
                 }
             }
 
-            if (m_AirControl && Time.timeScale < 1f)
-            {
-                // If the input is moving the player right and the player is facing left...
-                if (move > 0 && !m_FacingRight)
-                {
-                    // ... flip the player.
-                    Flip();
-                }
-                // Otherwise if the input is moving the player left and the player is facing right...
-                else if (move < 0 && m_FacingRight)
-                {
-                    // ... flip the player.
-                    Flip();
-                }
-            }
             // If the player should jump...
-            if (m_Grounded && jump && m_Anim.GetBool("Ground"))
+            if (jump)
             {
-                // Add a vertical force to the player.
-                m_Grounded = false;
-                m_Anim.SetBool("Ground", false);
-                m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce));
+                if (m_Grounded && m_Anim.GetBool("Ground"))
+                {
+                    // Add a vertical force to the player.
+                    m_Grounded = false;
+                    m_Anim.SetBool("Ground", false);
+                    m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce));
+                    canDoubleJump = true;
+                }
+                else
+                {
+                    if (canDoubleJump)
+                    {
+                        m_Grounded = false;
+                        m_Anim.SetBool("Ground", false);
+                        m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce/2));
+                        canDoubleJump = false;
+                    }
+                }
             }
+            
+            
         }
 
 
